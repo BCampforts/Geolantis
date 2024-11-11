@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# https://citation-file-format.github.io/cff-initializer-javascript/
+
+cff-version: 1.0.0
+title: Geolantis, VU Amsterdam
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Campforts
+    given-names: Benjamin
+    orcid: 'https://orcid.org/0000-0001-5699-6714'
+identifiers:
+  - type: doi
+    value: 
+    description: >-
+repository-code: ''
+url: 
+abstract: >-
+keywords:
+  - csdms
+  - geosciences
+  - landlab
+license: CC-BY-4.0
+commit: f20200c18401625e3cb18b6a52e1b2d80d54e446
+version: '2024.1'
+date-released: '2024-11-10'
