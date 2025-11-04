@@ -5,7 +5,7 @@
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
 [landlab]: landlab/00_welcome.ipynb
 [geolantis]: geolantis/Geolantis_main.ipynb
-[jhub-link]: https://hub4.compute.vu.nl/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBCampforts%2FGeolantis&urlpath=lab%2Ftree%2FGeolantis%2FREADME.ipynb&branch=main
+[jhub-link]: https://hub1.compute.vu.nl/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBCampforts%2FGeolantis&urlpath=lab%2Ftree%2FGeolantis%2FREADME.ipynb&branch=main
 [csdms-ivy]: https://github.com/csdms/ivy
 
 # Geolantis
